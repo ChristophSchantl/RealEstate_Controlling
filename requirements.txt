@@ -1,0 +1,6 @@
+streamlit>=1.31
+pandas>=2.0
+numpy>=1.26
+plotly>=5.18
+camelot-py[cv]>=0.11.0
+pypdf>=4.0
